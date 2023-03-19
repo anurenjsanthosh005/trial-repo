@@ -3,3 +3,5 @@ hello world. this is to try out git
 this is another file in feature. this is edited to show a new merge
 
 answer 1
+
+answer 2
